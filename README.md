@@ -1,1 +1,1 @@
-# The-Basics-of-PYTHON
+Курс "Основы Python".
